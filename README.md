@@ -9,8 +9,6 @@ holstr [![Follow](https://img.shields.io/twitter/follow/data_steve.svg?style=soc
 [![Project Status: Active - The project has reached a stable, usable
 state and is being actively
 developed.](http://www.repostatus.org/badges/0.1.0/active.svg)](http://www.repostatus.org/#active)
-[![Build
-Status](https://travis-ci.org/data-steve/holstr.svg?branch=master)](https://travis-ci.org/data-steve/holstr)
 <a href="https://img.shields.io/badge/Version-0.0.1-orange.svg"><img src="https://img.shields.io/badge/Version-0.0.1-orange.svg" alt="Version"/></a>
 
 
