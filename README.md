@@ -1,4 +1,4 @@
-holstr <a href="https://twitter.com/data_steve" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @data_steve</a>
+holstr [![Follow](https://img.shields.io/twitter/follow/data_steve.svg?style=social)](https://twitter.com/intent/follow?screen_name=data_steve)
 ============
 
 ![](inst/holstr.jpg)
