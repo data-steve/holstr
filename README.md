@@ -4,8 +4,7 @@ holstr
 
 ![](inst/holstr.jpg)
 
--   Installation
--   Contact
+
 
 [![Project Status: Active - The project has reached a stable, usable
 state and is being actively
@@ -32,7 +31,7 @@ the development version:
 Contact
 =======
 
-You are welcome to: \* submit suggestions and bug-reports at:
-<https://github.com/data-steve/holstr/issues> \* send a pull request
-on: <https://github.com/data-steve/holstr/> \* compose a friendly
-e-mail to: <steven.troy.simpson@gmail.com>
+You are welcome to: 
+- submit suggestions and bug-reports at: <https://github.com/data-steve/holstr/issues> 
+- send a pull request on: <https://github.com/data-steve/holstr/> 
+- compose a friendly e-mail to: <steven.troy.simpson@gmail.com>
