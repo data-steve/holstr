@@ -1,12 +1,15 @@
 Package: holstr
 Title: Functionality Your Always Want at Your Side
-Version: 0.0.1
+Version: 0.0.3
 Authors@R: c(person("Steve", "Simpson", email = "steven.troy.simpson@gmail.com", role = c("aut", "cre")))
 Maintainer: Steve Simpson <steven.troy.simpson@gmail.com>
 Description: Functionality Your Always Want at Your Side.
-Depends: R (>= 3.2.4)
-Suggests: testthat
-Date: 2016-05-02
+Depends:
+    R (>= 3.2.4)
+Suggests:
+    testthat
+Date: 2016-09-12
 License: GPL-2
 LazyData: TRUE
 Roxygen: list(wrap = FALSE)
+RoxygenNote: 5.0.1
