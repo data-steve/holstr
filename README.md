@@ -8,7 +8,7 @@ holstr
 
 [![Project Status: Active - The project has reached a stable, usable
 state and is being actively
-developed.](http://www.repostatus.org/badges/0.0.3/active.svg)](http://www.repostatus.org/#active)
+developed.](http://www.repostatus.org/badges/0.1.0/active.svg)](http://www.repostatus.org/#active)
 <a href="https://img.shields.io/badge/Version-0.0.3-orange.svg"><img src="https://img.shields.io/badge/Version-0.0.3-orange.svg" alt="Version"/></a>
 
 
