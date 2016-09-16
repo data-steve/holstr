@@ -3,6 +3,7 @@
 export(extract_path)
 export(get_subfolder_path)
 export(grep_match)
+export(nunique)
 export(opener)
 export(search_subfolders)
 export(tic)
